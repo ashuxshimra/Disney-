@@ -1,0 +1,45 @@
+{
+    "movies": [
+      {
+        "title": "The Lion King",
+        "release_year": 1994,
+        "genre": "Animation",
+        "directors": ["Roger Allers", "Rob Minkoff"],
+        "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
+        "image_url": "https://example.com/images/the_lion_king.jpg"
+      },
+      {
+        "title": "Frozen",
+        "release_year": 2013,
+        "genre": "Animation",
+        "directors": ["Chris Buck", "Jennifer Lee"],
+        "cast": ["Kristen Bell", "Idina Menzel", "Jonathan Groff"],
+        "image_url": "https://example.com/images/frozen.jpg"
+      },
+      {
+        "title": "Toy Story",
+        "release_year": 1995,
+        "genre": "Animation",
+        "directors": ["John Lasseter"],
+        "cast": ["Tom Hanks", "Tim Allen", "Don Rickles"],
+        "image_url": "https://example.com/images/toy_story.jpg"
+      },
+      {
+        "title": "Moana",
+        "release_year": 2016,
+        "genre": "Animation",
+        "directors": ["Ron Clements", "John Musker"],
+        "cast": ["Auli'i Cravalho", "Dwayne Johnson", "Rachel House"],
+        "image_url": "https://example.com/images/moana.jpg"
+      },
+      {
+        "title": "Beauty and the Beast",
+        "release_year": 1991,
+        "genre": "Animation",
+        "directors": ["Gary Trousdale", "Kirk Wise"],
+        "cast": ["Paige O'Hara", "Robby Benson", "Angela Lansbury"],
+        "image_url": "https://example.com/images/beauty_and_the_beast.jpg"
+      }
+    ]
+  }
+  
